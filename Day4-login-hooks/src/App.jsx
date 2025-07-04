@@ -79,7 +79,7 @@ function App() {
               <button
                 type='button'
                 onClick={handleForgotPassword}
-                className='w-1/2 bg-purple-600 text-white py-3 rounded-lg hover:bg-blue-400 transition duration-200'
+                className='w-1/2 bg-gray-600 text-white py-3 rounded-lg hover:bg-blue-400 transition duration-200'
               >
                 FORGOT PASSWORD
               </button>
