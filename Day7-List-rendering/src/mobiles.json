@@ -1,0 +1,9 @@
+[
+ {"id": 1, "name": "vivo", "rate": 10000},
+
+{"id": 2, "name": "iphone", "rate": 65000}, 
+
+{"id":3, "name":"oneplus", "rate": 35000},
+
+{"id":4, "name": "sumsung", "rate": 50000}
+]
